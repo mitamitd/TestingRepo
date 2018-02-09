@@ -1,1 +1,1 @@
-web: html htmlfile.html
+web: node htmlfile.html
